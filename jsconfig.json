@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@/components/*": ["components/*"],
+        "@/features/*": ["features/*"],
+        "@/utils/*": ["utils/*"],
+        "@/styles/*": ["styles/*"],
+        "@/actions/*": ["app/actions/*"],
+        "@/locale": ["i18n/locales/index"],
+        "@/api/*": ["api/*"],
+        "@/app/*": ["app/*"],
+        "@/redux/*": ["redux/*"],
+      }
+    }
+  }
+  
+  
